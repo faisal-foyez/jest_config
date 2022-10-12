@@ -4,6 +4,8 @@ import Calculator from '../calculator'
 import {light} from '../themes'
 
 test('renders', () => {
+  debugger
+
   const {getByText} = render(<Calculator />, {
     theme: light,
   })

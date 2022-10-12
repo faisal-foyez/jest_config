@@ -24,7 +24,7 @@ test('renders', () => {
         <div
           class="AutoScalingText"
           data-testid="total"
-          style="transform: scale(1,1);"
+          style="transform: scale(2,2);"
         >
           NaN
         </div>
